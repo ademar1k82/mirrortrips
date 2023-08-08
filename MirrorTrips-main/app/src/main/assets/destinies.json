@@ -1,0 +1,1193 @@
+{
+  "beach": {
+    "confort": {
+      "noBudget": [
+        {
+          "name": "Palawan",
+          "country": "Filipinas",
+          "image": "",
+          "apiTime": "",
+          "description": "Palawan é um pedaço do céu, uma parte de uma ilha repleta de fauna exótica, pitorescas aldeias de pescadores e locais considerados como Patrimônio Mundial da UNESCO. Diga olá a animais ameaçados de extinção na Reserva Natural e Santuário de Vida Selvagem de Calauit ou explore os naufrágios japoneses da Ilha de Coron, considerada um dos melhores locais de mergulho do mundo. Uma excursão guiada pelo rio subterrâneo de Puerto Princesa vai deixá-lo estupefato.",
+          "tourismLink": "https://philippines.travel/destinations/palawan",
+          "youtubeLink": "https://www.youtube.com/watch?v=5myfOaVzKw0",
+          "airport": "Cebu (CEB)",
+          "cityHotel": ""
+        },
+        {
+          "name": "Bermuda",
+          "country": "Bermuda",
+          "image": "",
+          "apiTime": "",
+          "description": "Não se engane pelo tamanho modesto das ilhas Bermudas. Com 34 km² no Atlântico, o local é repleto de história, personalidade e charme, com praias de areia rosa e fortes históricos. As ilhas são conhecidas por aventuras aquáticas como mergulho em destroços de navios, salto em penhasco e pesca em alto-mar. Em terra firme, você encontra a eclética cultura da ilha, com vizinhanças cheias de vida, shorts coloridos e uma deliciosa sopa de peixe.",
+          "tourismLink": "https://www.gotobermuda.com/",
+          "youtubeLink": "https://www.youtube.com/watch?v=EGpD1d2lOrQ",
+          "airport": "L.F. Wade International (BDA)",
+          "cityHotel": ""
+        }
+      ],
+      "lowCost": [
+        {
+          "name": "Chipre",
+          "country": "Chipre",
+          "image": "",
+          "apiTime": "",
+          "description": "Chipre, o local de nascimento lendário da deusa Afrodite, tem sido cobiçado e disputado por inúmeros admiradores: micénicos, egípcios, assírios e persas, entre outros. Mais recentemente, a antiga colónia britânica foi disputada pelos turcos e pelos gregos. Deste passado turbulento, resultou um conjunto impressionante de tesouros culturais, desde os castelos dos cruzados à sepultura da tia de Maomé. A geografia da ilha, com uma vasta linha costeira e um centro montanhoso, garante muitas atividades durante o ano inteiro. E praias, muitas praias!",
+          "tourismLink": "https://www.visitcyprus.com/",
+          "youtubeLink": "https://www.youtube.com/watch?v=kb2-6zemmj8",
+          "airport": "Larnaca (LCA)",
+          "cityHotel": "Larnaca"
+        },
+        {
+          "name": "Puglia",
+          "country": "Itália",
+          "image": "",
+          "apiTime": "",
+          "description": "Puglia é uma região com praias lindas, cidades históricas, na sua maioria bem pequenas e charmosas. Geralmente a região fica bem cheia durante o verão sendo em agosto durante as férias da maioria dos europeus. Sobre gastronomia, acho que é difícil alguém não ficar satisfeito em qualquer viagem para a Itália. Foi um festival de gelados, massas com frutos do mar e algumas pizzas na areia das praias. Sim, eles comem pizza na praia!",
+          "tourismLink": "https://www.viaggiareinpuglia.it/",
+          "youtubeLink": "https://www.youtube.com/watch?v=6MC_pqRIW2k",
+          "airport": "Bari (BRI)",
+          "cityHotel": "Puglia"
+        }
+      ],
+      "average": [
+        {
+          "name": "Hurghada",
+          "country": "Egito",
+          "image": "",
+          "apiTime": "",
+          "description": "O principal atrativo turístico de Hurghada são suas belas praias de águas tranquilas e claras, um paraíso na terra para os submarinistas que podem desfrutar os coloridos fundos marinhos da região. \nAlém de suas maravilhas aquáticas, outro principal atrativo de Hurghada é o deserto, que oferece a seus visitantes a possibilidade de caminhar pelas dunas solitárias ou desfrutar um agradável jantar no meio de um oásis.\n",
+          "tourismLink": "https://www.lonelyplanet.com/egypt/red-sea-coast/hurghada",
+          "youtubeLink": "https://www.youtube.com/watch?v=I7yUYJ4umb0",
+          "airport": "Hurghada (HRG)",
+          "cityHotel": "Hurghada"
+        },
+        {
+          "name": "Los Cabos",
+          "country": "México",
+          "image": "",
+          "apiTime": "",
+          "description": "Localizado na ponta da península de Baja Califórnia, Los Cabos é daquelas atrações naturais de cair o queixo. Como em praticamente todas as localidades do México que recebem visitantes estrangeiros, esse destino conta com boa infraestrutura de hotéis, spas e restaurantes. O chamado “corredor hoteleiro” ocupa 30 quilómetros e liga San Jose del Cabo e Cabo de San Lucas, as duas principais cidades de Los Cabos, atendendo igualmente os endinheirados e aqueles com orçamento mais curto.",
+          "tourismLink": "https://www.visitloscabos.travel/",
+          "youtubeLink": "https://www.youtube.com/watch?v=HGwX827KkcM",
+          "airport": "Los Cabos (SJD)",
+          "cityHotel": ""
+        }]
+    },
+    "adventure": {
+      "noBudget": [
+        {
+          "name": "Whitehaven Beach",
+          "country": "Australia",
+          "image": "",
+          "apiTime": "",
+          "description": "Esta praia se estende por mais de sete quilômetros ao longo da costa leste da Ilha Whitsunday, a maior das 74 ilhas que compõem o arquipélago. A praia é conhecida por suas areias brancas e águas azul-turquesa. As línguas de areia branca contrastam com o azul das marés e mudam de forma a cada maré. Esta praia é imperdível visitando as Whitsundays.",
+          "tourismLink": "https://whitehaven-beach.com/",
+          "youtubeLink": "https://www.youtube.com/watch?v=fj-ey3tgwYY",
+          "airport": "Mackay (MKY)",
+          "cityHotel": ""
+        },
+        {
+          "name": "Bonaire",
+          "country": "Bonaire",
+          "image": "",
+          "apiTime": "",
+          "description": "Bonaire é uma das ilhas pertencentes ao ABC caribenho: Aruba, Bonaire e Curaçao. A ilha é rodeada de belezas naturais, tanto em terra firme quanto em alto mar. Há parques, montanhas de sal, dezenas de pontos de mergulho, diversos esportes radicais, praias paradisíacas, clima perfeito ao longo do ano, rica fauna e flora e várias atrações ecológicas para todas as idades. Sem descartar uma vida noturna agitada na capital com direito a diversos restaurantes e bares na ilha.",
+          "tourismLink": "https://bonaireisland.com/",
+          "youtubeLink": "https://www.youtube.com/watch?v=hxp7bdq4vjE",
+          "airport": "Flamingo International (BON)",
+          "cityHotel": ""
+        }
+      ],
+      "lowCost": [
+        {
+          "name": "Calanque d'En Vau",
+          "country": "França",
+          "image": "",
+          "apiTime": "",
+          "description": "Descubra a bela praia Calanque D'En-Vau na França, que apesar de reservada e bem escondida, é uma das mais lindas e paradisíacas para conhecer no país! No meio de dois paredões, sob um relevo de falésia, a pequena e intimista praia Calanque D'En-Vau na França convida os turistas a conhecerem suas águas calmas e cristalinas. Há quem diga que é um dos lugares mais bonitos do mundo e que vale todos os esforços para chegar lá!",
+          "tourismLink": "https://www.marseille-tourisme.com/en/discover-marseille/nature/the-calanques-of-marseille/which-calanques-to-discover/le-parc-national-des-calanques/the-en-vau-calanque/",
+          "youtubeLink": "https://www.youtube.com/watch?v=LhzwKOAihRk",
+          "airport": "Marselha (MRS)",
+          "cityHotel": ""
+        },
+        {
+          "name": "Sardenha",
+          "country": "Itália",
+          "image": "",
+          "apiTime": "",
+          "description": "A Sardenha tem tudo: grutas que se abrem para praias de água azul-turquesa, lindas paisagens rurais, cidades com centrinhos medievais, comida inesquecível.",
+          "tourismLink": "https://www.sardegnaturismo.it/en/",
+          "youtubeLink": "https://www.youtube.com/watch?v=cZEbF0z7Si4",
+          "airport": "Cagliari (CAG)",
+          "cityHotel": ""
+        }
+      ],
+      "average": [
+        {
+          "name": "Holbox",
+          "country": "México",
+          "image": "",
+          "apiTime": "",
+          "description": "Neste pedacinho do paraíso, você poderá encontrar um belo mar azul turquesa, excelentes restaurantes, pousadas charmosas e um céu estrelado impossível de observar em outras regiões. Holbox é um lugar cheio de paz e tranquilidade onde os viajantes vão para desconectar-se, curtindo uma vibe muito diferente de Cancun e Riviera Maya.",
+          "tourismLink": "https://olhosdeturista.com.br/holbox-mexico-o-que-fazer/",
+          "youtubeLink": "https://www.youtube.com/watch?v=9CJeczSxxZ8",
+          "airport": "Cancun (CUN)",
+          "cityHotel": ""
+        },
+        {
+          "name": "Creta",
+          "country": "Grécia",
+          "image": "",
+          "apiTime": "",
+          "description": "A ilha de Creta é uma joia grega flutuando num mar turquesa. As praias são faixas divinas de areia macia e pedras lisas. Seu significado histórico e mitológico não pode ser ignorado: Creta é considerada como o local de origem de Zeus, o rei dos Deuses, e foi o local da primeira civilização moderna da Europa.",
+          "tourismLink": "https://www.incrediblecrete.gr/en/",
+          "youtubeLink": "https://www.youtube.com/watch?v=eCsotmHCbZo",
+          "airport": "Heraklion (HER)",
+          "cityHotel": ""
+        }
+      ]
+    },
+    "relax": {
+      "noBudget": [
+        {
+          "name": "Fiji",
+          "country": "Fiji",
+          "image": "",
+          "apiTime": "",
+          "description": "As ilhas Fiji são de uma beleza natural estonteante e possibilitam a prática de diversas actividades, que afastam a eventualidade de se entediar. Tanto os resorts mais luxuosos como as pequenas pensões à beira-mar organizam actividades outdoor: surf, escalada, mergulho… Mas se por uns dias preferir beber cocktails e comer marisco fresco na esplanada, não faltarão aromas exóticos com que saciar as papilas - nas Fiji crescem quase todos os frutos tropicais conhecidos e a quantidade de espécies de peixe que vivem nas suas águas atrai pescadores do mundo inteiro.",
+          "tourismLink": "https://www.fiji.travel/",
+          "youtubeLink": "https://www.youtube.com/watch?v=SvoOgelr1eY",
+          "airport": "Nadi International (NAN)",
+          "cityHotel": ""
+        },
+        {
+          "name": "Sri Lanka",
+          "country": "Sri Lanka",
+          "image": "",
+          "apiTime": "",
+          "description": "Visitar o Sri Lanka é ter um misto de opções num só destino de viagem. Longe das massas turísticas é ideal para os amantes de natureza com paisagens deslumbrante, animais em habitat natural e extensas praias. Rico em cultura e espiritualidade, com pessoas afáveis e sabores marcantes, este é um destino de viagem que o irá surpreender.",
+          "tourismLink": "https://www.srilanka.travel/tourism-updates",
+          "youtubeLink": "https://www.youtube.com/watch?v=q0mbKsKG-ng",
+          "airport": "Colombo International (CMB)",
+          "cityHotel": ""
+        }
+      ],
+      "lowCost": [
+        {
+          "name": "Racó del Albir",
+          "country": "Espanha",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "Valencia (VLC)",
+          "cityHotel": ""
+        },
+        {
+          "name": "Elafonissi",
+          "country": "Grécia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "Chania (CHQ)",
+          "cityHotel": ""
+        }
+      ],
+      "average": [
+        {
+          "name": "Moçambique",
+          "country": "Moçambique",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "Maputo (MPM)",
+          "cityHotel": ""
+        },
+        {
+          "name": "Cabo Verde",
+          "country": "Cabo Verde",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "Amilcar Cabral International (SID)",
+          "cityHotel": ""
+        }
+      ]
+    },
+    "entertainment": {
+      "noBudget": [
+        {
+          "name": "Cabo San Lucas",
+          "country": "México",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Montanita",
+          "country": "Equador",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "lowCost": [
+        {
+          "name": "Miconos",
+          "country": "Grécia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "Mykonos (JMK)",
+          "cityHotel": ""
+        },
+        {
+          "name": "Buvda",
+          "country": "Montenegro",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "average": [
+        {
+          "name": "Chipre",
+          "country": "Chipre",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Sunny Beach",
+          "country": "Bulgária",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ]
+    }
+  },
+  "cityBreak": {
+    "history": {
+      "noBudget": [
+        {
+          "name": "Grande Muralha da China",
+          "country": "China",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Angkor Vat",
+          "country": "Cambodja",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "lowCost": [
+        {
+          "name": "Cracóvia",
+          "country": "Polónia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Stonehenge",
+          "country": "Inglaterra",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "average": [
+        {
+          "name": "Petra",
+          "country": "Jordânia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Istambul",
+          "country": "Turquia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ]
+    },
+    "foodies": {
+      "noBudget": [
+        {
+          "name": "Singapura",
+          "country": "Singapura",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Osaka",
+          "country": "Japão",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "lowCost": [
+        {
+          "name": "Nápoles",
+          "country": "Itália",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Copenhaga",
+          "country": "Dinamarca",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "average": [
+        {
+          "name": "Lyon",
+          "country": "França",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Montreal",
+          "country": "Canadá",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ]
+    },
+    "nightLife": {
+      "noBudget": [
+        {
+          "name": "Las Vegas",
+          "country": "Estados Unidos da América",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Buenos Aires",
+          "country": "Argentina",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "lowCost": [
+        {
+          "name": "Berlim",
+          "country": "Alemanha",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Dublin",
+          "country": "Irlanda",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "average": [
+        {
+          "name": "Estocolmo",
+          "country": "Suécia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Manchester",
+          "country": "Inglaterra",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ]
+    },
+    "markets": {
+      "noBudget": [
+        {
+          "name": "Cairo",
+          "country": "Egito",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "San Francisco",
+          "country": "Estados Unidos da América",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "lowCost": [
+        {
+          "name": "Bruges",
+          "country": "Bélgica",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Colmar",
+          "country": "França",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "average": [
+        {
+          "name": "Marrakesh",
+          "country": "Marrocos",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Provence",
+          "country": "França",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ]
+    }
+  },
+  "nature": {
+    "zen": {
+      "noBudget": [
+        {
+          "name": "Fiordes Noruegueses",
+          "country": "Noruega",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Angel Falls",
+          "country": "Venezuela",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "lowCost": [
+        {
+          "name": "Cliffs of Moher",
+          "country": "Irlanda",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Highlands",
+          "country": "Escócia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "average": [
+        {
+          "name": "Black Forest",
+          "country": "Alemanha",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Hallstatt",
+          "country": "Suiça",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ]
+    },
+    "adventure": {
+      "noBudget": [
+        {
+          "name": "Costa Rica",
+          "country": "Costa Rica",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Salar de Uyuni",
+          "country": "Bolívia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "lowCost": [
+        {
+          "name": "Chamonix",
+          "country": "Suiça",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "England Forest",
+          "country": "Inglaterra",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "average": [
+        {
+          "name": "Hurghada",
+          "country": "Egito",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Arménia",
+          "country": "Arménia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ]
+    },
+    "wildLife": {
+      "noBudget": [
+        {
+          "name": "Lençóis Maranhenses",
+          "country": "Brasil",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Rwanda",
+          "country": "Rwanda",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "lowCost": [
+        {
+          "name": "Polónia",
+          "country": "Polónia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Açores",
+          "country": "Portugal",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "average": [
+        {
+          "name": "Bielorrussia",
+          "country": "Bielorrussia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Finlândia",
+          "country": "Finlândia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ]
+    },
+    "history": {
+      "noBudget": [
+        {
+          "name": "Ilha da Páscoa",
+          "country": "Ilha da Páscoa",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Namíbia",
+          "country": "Namíbia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "lowCost": [
+        {
+          "name": "Convento de Santo António de Pádua - Extremadura",
+          "country": "Espanha",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Mont Saint-Michel",
+          "country": "França",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "average": [
+        {
+          "name": "Meteora",
+          "country": "Grécia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Calçada do Gigante",
+          "country": "Irlanda",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ]
+    }
+  },
+  "snow": {
+    "privacy": {
+      "noBudget": [
+        {
+          "name": "Reine",
+          "country": "Noruega",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Nagano",
+          "country": "Japão",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "lowCost": [
+        {
+          "name": "Ferdi",
+          "country": "Áustria",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Funes",
+          "country": "Itália",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "average": [
+        {
+          "name": "Kiruna",
+          "country": "Suécia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Haukadalur",
+          "country": "Islândia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ]
+    },
+    "confort": {
+      "noBudget": [
+        {
+          "name": "Quebec",
+          "country": "Canadá",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Banf National Park",
+          "country": "Canadá",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "lowCost": [
+        {
+          "name": "Lago Bled",
+          "country": "Suécia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Val Torens",
+          "country": "França",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "average": [
+        {
+          "name": "Ferdi",
+          "country": "Áustria",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Reiquiavik",
+          "country": "Islândia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ]
+    },
+    "adventure": {
+      "noBudget": [
+        {
+          "name": "Hakuba Valley",
+          "country": "Japão",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Lake Tahoe California",
+          "country": "Estados Unidos da América",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "lowCost": [
+        {
+          "name": "St Anton",
+          "country": "Áustria",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Tignes",
+          "country": "França",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "average": [
+        {
+          "name": "Verbier",
+          "country": "Suiça",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Val d'Isere",
+          "country": "França",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ]
+    },
+    "thematic": {
+      "noBudget": [
+        {
+          "name": "Lapland",
+          "country": "Finlândia",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Virginia",
+          "country": "Estados Unidos da América",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "lowCost": [
+        {
+          "name": "Basel",
+          "country": "Paises Baixos",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Dresden",
+          "country": "Alemanha",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ],
+      "average": [
+        {
+          "name": "Tromso",
+          "country": "Noruega",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        },
+        {
+          "name": "Niagara Falls",
+          "country": "Estados Unidos da América",
+          "image": "",
+          "apiTime": "",
+          "description": "",
+          "tourismLink": "",
+          "youtubeLink": "",
+          "airport": "",
+          "cityHotel": ""
+        }
+      ]
+    }
+  }
+}

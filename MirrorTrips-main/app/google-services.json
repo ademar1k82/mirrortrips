@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524080769318",
+    "project_id": "mirrortrips",
+    "storage_bucket": "mirrortrips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524080769318:android:9020c3b9eb714eb462b9e7",
+        "android_client_info": {
+          "package_name": "com.ipca.budget.travelmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524080769318-ki0daq1mip5glph351h0bhb6n3tjsgjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkb2huRMmugSajB6hEkmt29tx5iWtsVAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524080769318-ki0daq1mip5glph351h0bhb6n3tjsgjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

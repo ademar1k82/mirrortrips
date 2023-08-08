@@ -1,0 +1,66 @@
+{
+  "beach": [
+    {
+      "id": "confort",
+      "text": "Conforto"
+    },
+    {
+      "id": "adventure",
+      "text": "Aventura"
+    },
+    {
+      "id": "relax",
+      "text": "Relax"
+    },
+    {
+      "id": "entertain",
+      "text": "Diversão"
+    }
+  ],
+  "cityBreak": [
+    {
+      "id": "history",
+      "text": "História"
+    },
+    {
+      "id": "foodies",
+      "text": "Gastronómico"
+    }, {
+      "id": "nightLife",
+      "text": "Noturno"
+    }, {
+      "id": "markets",
+      "text": "Mercados"
+    }
+  ],
+  "nature": [
+    {
+      "id": "zen",
+      "text": "Zen"
+    },{
+      "id": "adventure",
+      "text": "Aventura"
+    }, {
+      "id": "wildLife",
+      "text": "Vida selvagem"
+    }, {
+      "id": "history",
+      "text": "História"
+    }
+  ],
+  "snow": [
+    {
+      "id": "privacy",
+      "text": "Privacidade"
+    },{
+      "id": "confort",
+      "text": "Conforto"
+    }, {
+      "id": "adventure",
+      "text": "Aventura"
+    },{
+      "id": "thematic",
+      "text": "Temático"
+    }
+  ]
+}
