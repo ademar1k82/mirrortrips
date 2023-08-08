@@ -2,7 +2,7 @@
 
 Travel Agency app responsible for giving the costumer an oportunity to choose a vacation destiny from the costumer expectations.
 
-<img align="center" width="400" height="400" src="h0P3s_runaway/assets/imgs/hopes1.png">
+<img align="center" width="400" height="400" src="MirrorTrips-main/mirrortrips.png">
 
 
 
