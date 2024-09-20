@@ -63,7 +63,7 @@ Run it on Android Studio.
 
 ---
 
-This project was developed for academic purposes as part of the **2nd Year Game Development for Mobile Platforms** class at IPCA, 2024.
+This project was developed for academic purposes as part of the **2nd Year Game Development for Mobile Platforms** class at IPCA, 2023.
 
 
 
