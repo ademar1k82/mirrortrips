@@ -6,6 +6,7 @@ Travel Agency app responsible for giving the costumer an oportunity to choose a 
   <img width="400" height="400" src="MirrorTrips-main/mirrortrips.png">
 </p>
 
+
 ---
 
 ## Features
@@ -21,11 +22,12 @@ Travel Agency app responsible for giving the costumer an oportunity to choose a 
 
 - **Use of API's and Weblinks:**  
   The project features the use of 2 APIs and 3 Weblinks connected to each final destinations:
-  - Booking.com API to search acommodation to destination;
-  - smtp API for e-mail contact;
-  - Youtube.com link to observe the destination;
-  - Local Tourism website link to obtain important destination;
-  - Google Flights Link to search flights to destination.
+  - **Booking.com** API to search acommodation to destination;
+  - **smtp** API for e-mail contact;
+  - **Youtube.com** link to observe the destination;
+  - **Local Tourism website** link to obtain important destination;
+  - **Google Flights** Link to search flights to destination.
+
 
 ---
 
@@ -37,7 +39,10 @@ Travel Agency app responsible for giving the costumer an oportunity to choose a 
 ---
 
 ## Images
-<img src=https://github.com/user-attachments/assets/6a4f3b4b-90e1-4ee1-9268-774323c4444e alt="Ambient Light" width="400"/>
+<p align="center">
+  <img width="700" height="700" src="MirrorTrips-main/mirrortrips%20flow.png">
+</p>
+
 
 ---
 
@@ -46,6 +51,7 @@ Travel Agency app responsible for giving the costumer an oportunity to choose a 
 Clone the repository. 
 Run it on Android Studio.
 
+
 ---
 
 ## Dev Team
@@ -53,6 +59,7 @@ Run it on Android Studio.
 - [Ademar Valente](https://github.com/ademar1k82)
 - [José Lourenço](https://github.com/Zeet76)
 - [Pedro Frederico Silva](https://github.com/FredSilva92)
+
 
 ---
 
